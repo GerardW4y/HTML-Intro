@@ -1,0 +1,13 @@
+h2 {
+  background-color: blueviolet;
+  color: #f8f8f8;
+  opacity: 50%;
+}
+h3 {
+    color: aqua;
+}
+table, th, td {
+        border:3px solid black;
+        color: forestgreen;
+    color: darkolivegreen;
+}
